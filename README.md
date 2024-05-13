@@ -12,3 +12,7 @@ O app de sorteio é um aplicativo móvel que foi criado utilizando Java no Andro
 - Android SDK
 - Android Studio
 
+**Imagens do aplicativo:**
+
+![Captura_de_tela_2024-05-12_231100-removebg-preview (1)](https://github.com/CelioSoares996/App-Sorteio/assets/106351374/6ff6f8d3-d6c0-49f6-ae00-7f0585fe8806) ![Captura_de_tela_2024-05-12_231127-removebg-preview](https://github.com/CelioSoares996/App-Sorteio/assets/106351374/50b1d2fa-1ead-4f28-8f15-0767a02fe64c)
+
